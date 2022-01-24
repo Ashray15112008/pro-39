@@ -193,7 +193,7 @@ function spawnObstacles() {
   }
 }
 
-/*function reset(){
+function reset(){
   gameState = PLAY;
   gameOver.visible = true;
   restart.visible = true;
@@ -203,7 +203,7 @@ function spawnObstacles() {
   obstaclesGroup.Each();
   shrubsGroup.destroyEach();
   score = 0;
-}*/
+}
 
 /*function reset(){
   gameState = PLAY;
